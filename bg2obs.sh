@@ -33,7 +33,7 @@ usage()
 # Extract command line options
 
 # Clear translation variable if it exists and set defaults for others
-translation='WEB'    # Which translation to use
+translation='ESV'    # Which translation to use
 boldwords="false"    # Set words of Jesus in bold
 headers="false"      # Include editorial headers
 aliases="false"      # Create an alias in the YAML front matter for each chapter title
